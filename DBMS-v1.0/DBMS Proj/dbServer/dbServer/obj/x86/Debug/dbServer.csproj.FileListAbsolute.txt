@@ -1,0 +1,30 @@
+Z:\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\bin\Debug\dbServer.exe
+Z:\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\bin\Debug\dbServer.pdb
+Z:\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\obj\x86\Debug\dbServer.exe
+Z:\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\obj\x86\Debug\dbServer.pdb
+Z:\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\obj\x86\Debug\dbServer.csprojResolveAssemblyReference.cache
+D:\Spring 2017\Advanced Database Systems-CS-3331\Project DBMS\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\obj\x86\Debug\dbServer.exe
+D:\Spring 2017\Advanced Database Systems-CS-3331\Project DBMS\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\obj\x86\Debug\dbServer.pdb
+D:\Spring 2017\Advanced Database Systems-CS-3331\Project DBMS\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\bin\Debug\dbServer.exe
+D:\Spring 2017\Advanced Database Systems-CS-3331\Project DBMS\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\bin\Debug\dbServer.pdb
+D:\Spring 2017\Advanced Database Systems-CS-3331\Project DBMS\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\obj\x86\Debug\dbServer.csprojResolveAssemblyReference.cache
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\obj\x86\Debug\dbServer.exe
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\obj\x86\Debug\dbServer.pdb
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS Client Server Project V3\DBMS Client Server Project\dbServer\dbServer\obj\x86\Debug\dbServer.csprojResolveAssemblyReference.cache
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS V3\DBMS Proj\dbServer\dbServer\obj\x86\Debug\dbServer.csprojResolveAssemblyReference.cache
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS V3\DBMS Proj\dbServer\dbServer\obj\x86\Debug\dbServer.exe
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS V3\DBMS Proj\dbServer\dbServer\obj\x86\Debug\dbServer.pdb
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS V3\DBMS Proj\dbServer\dbServer\bin\Debug\dbServer.exe
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS V3\DBMS Proj\dbServer\dbServer\bin\Debug\dbServer.pdb
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS V3 - Git\DBMS Proj\dbServer\dbServer\obj\x86\Debug\dbServer.exe
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS V3 - Git\DBMS Proj\dbServer\dbServer\obj\x86\Debug\dbServer.pdb
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS V3 - Git\DBMS Proj\dbServer\dbServer\obj\x86\Debug\dbServer.csprojResolveAssemblyReference.cache
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS V3 - Git\DBMS Proj\dbServer\dbServer\bin\Debug\dbServer.exe
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS V3 - Git\DBMS Proj\dbServer\dbServer\bin\Debug\dbServer.pdb
+C:\Users\Me\Documents\copied flash drive of SRSU Work\Spring 2017\Advanced Database Systems\Project DBMS Final\DBMS V3 - Git\DBMS Proj\dbServer\dbServer\bin\Debug\ManagedWifi.dll
+C:\Users\Me\Documents\Git-Projects\DBMS-Server-Client\DBMS-v1.0\DBMS Proj\dbServer\dbServer\obj\x86\Debug\dbServer.exe
+C:\Users\Me\Documents\Git-Projects\DBMS-Server-Client\DBMS-v1.0\DBMS Proj\dbServer\dbServer\obj\x86\Debug\dbServer.pdb
+C:\Users\Me\Documents\Git-Projects\DBMS-Server-Client\DBMS-v1.0\DBMS Proj\dbServer\dbServer\bin\Debug\dbServer.exe
+C:\Users\Me\Documents\Git-Projects\DBMS-Server-Client\DBMS-v1.0\DBMS Proj\dbServer\dbServer\bin\Debug\dbServer.pdb
+C:\Users\Me\Documents\Git-Projects\DBMS-Server-Client\DBMS-v1.0\DBMS Proj\dbServer\dbServer\bin\Debug\ManagedWifi.dll
+C:\Users\Me\Documents\Git-Projects\DBMS-Server-Client\DBMS-v1.0\DBMS Proj\dbServer\dbServer\obj\x86\Debug\dbServer.csprojResolveAssemblyReference.cache

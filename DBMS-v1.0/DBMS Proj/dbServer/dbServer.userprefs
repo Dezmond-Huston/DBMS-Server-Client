@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="dbServer\dbServer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="dbServer\Server.cs">
+    <Files>
+      <File FileName="dbServer\Program.cs" Line="1" Column="1" />
+      <File FileName="dbServer\Server.cs" Line="225" Column="7" />
+      <File FileName="dbServer\DBMS.cs" Line="112" Column="52" />
+      <File FileName="dbServer\FileManager.cs" Line="1" Column="1" />
+      <File FileName="dbServer\GetIP.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,1 @@
+name	age	status,mary	42	good,rick	23	ok,kyle	33	bad,lucy	31	ok,

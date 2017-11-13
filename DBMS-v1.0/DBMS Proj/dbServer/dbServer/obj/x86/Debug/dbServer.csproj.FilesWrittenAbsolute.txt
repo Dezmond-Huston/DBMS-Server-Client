@@ -1,0 +1,5 @@
+/Users/klaviers/Projects/dbServer/dbServer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/klaviers/Projects/dbServer/dbServer/bin/Debug/dbServer.exe.mdb
+/Users/klaviers/Projects/dbServer/dbServer/bin/Debug/dbServer.exe
+/Users/klaviers/Projects/dbServer/dbServer/obj/x86/Debug/dbServer.exe
+/Users/klaviers/Projects/dbServer/dbServer/obj/x86/Debug/dbServer.exe.mdb
